@@ -2,4 +2,4 @@
 
 Frontend - HTML, CSS and JS.
 
-[View Page](https://pekarskyi.github.io/ecocabins.github.io/)
+[View Page](https://pekarskyi.github.io/ecocabins/)
